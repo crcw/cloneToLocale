@@ -9,6 +9,7 @@ public class Client {
 		System.out.println("github server say:收到了收到");
 		System.out.println("github server update======");
 		System.out.println("locale request 2015.10.30======");
+		System.out.println("8888888888888888888888888888888");
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		
 	}
