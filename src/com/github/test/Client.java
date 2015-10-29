@@ -2,7 +2,7 @@ package com.github.test;
 
 public class Client {
 
-	private void mian() {
+	public static void main(String[] args) {
 
 		System.out.println("I am here !  locale");
 	}
